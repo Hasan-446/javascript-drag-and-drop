@@ -1,0 +1,18 @@
+#cross:hover {
+  color: black;
+}
+#cross {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  cursor: pointer;
+  color:rgb(165, 170, 170);
+}
+#todo_box{
+  background-color: #e0e0e0;
+   position: relative
+}
+#todo_box:hover{
+  background-color: rgb(196, 196, 196);
+}
+
